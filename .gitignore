@@ -1,0 +1,8 @@
+**/dataset
+**/data
+**/logs
+**/checkpoints
+*.zip
+*.tar.gz
+*.pickle
+*.pkl
